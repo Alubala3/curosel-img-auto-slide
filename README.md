@@ -1,0 +1,1 @@
+# curosel-img-auto-slide
